@@ -1,0 +1,51 @@
+.count-content {
+  width: 100%;
+  //margin-left: 20%;
+}
+
+.cloud-box {
+  margin: 10px;
+  padding: 5px 0;
+  .count-list {
+    width: 100%;
+    margin: 0 auto;
+    .count-img {
+      display: inline-block;
+      font-size: 70px;
+      color: #A7E8E2;
+    }
+    .count-right {
+      display: inline-block;
+      margin-left: 20%;
+      p {
+        color: #fff;
+        font-size: 16px;
+      }
+    }
+    .hrLine {
+      position: relative;
+      left: 10%;
+      top: -13px;
+      border-left: 1px solid rgba(255,255,255,0.2);
+      font-size: 24px;
+    }
+  }
+
+
+
+}
+.colorGreen {
+  .ant-card {
+     background-color: #13C5A5;;
+  }
+}
+.colorYellow {
+  .ant-card {
+    background-color: #FB8E6F;;
+  }
+}
+.colorBlue {
+  .ant-card {
+    background-color: #23B7E5;;
+  }
+}
